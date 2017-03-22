@@ -1,0 +1,13 @@
+#hello {
+  background-image: url("../images/hero1.jpeg");
+  background-size: cover;
+  height: 800px; }
+
+#navbar-top {
+  position: fixed;
+  top: 0;
+  height: 30px;
+  background-color: #fff;
+  width: 100%; }
+
+/*# sourceMappingURL=style.css.map */
