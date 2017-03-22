@@ -1,13 +1,32 @@
-#hello{
-background-image: url('../images/hero1.jpeg');
-background-size:cover;
-height:800px;
-}
-
 #navbar-top{
 position:fixed;
 top:0;
-height:30px;
+height:50px;
 background-color:#fff;
 width:100%;
+}
+
+.reponsive{
+max-height: 100%;
+}
+#main{
+padding-top:50px;
+background-image:url('../images/hero1.jpeg');
+min-width:100%;
+min-height:100%;
+background-size:cover;
+height:1000px;
+}
+
+#square{
+background-color:rgba(255, 255, 255, 0.8);
+margin:0 auto;
+height:300px;
+width:300px;
+text-align:center;
+justify-content: center;
+border-style:double;
+}
+.morePadding{
+padding-top:150px;
 }
